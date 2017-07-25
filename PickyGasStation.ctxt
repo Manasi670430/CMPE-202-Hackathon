@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PickyGasStation
+comment0.text=\n\ Write\ a\ description\ of\ class\ Gasstation1\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=PickyGasStation()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Gasstation1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=currentWorld
+comment2.target=void\ setCurrentWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=CollidingClass
+comment4.target=boolean\ hasCollisionOccured(java.lang.Class)
+comment5.params=
+comment5.target=boolean\ hasRightCard()
+numComments=6

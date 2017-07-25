@@ -1,1 +1,1 @@
-# CMPE-202-Hackathon
+# cmpe202hackathon

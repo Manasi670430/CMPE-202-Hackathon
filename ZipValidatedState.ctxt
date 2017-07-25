@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ZipValidatedState
+comment0.text=\n\ Write\ a\ description\ of\ class\ ZipValidatedState\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ZipValidatedState()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ZipValidatedState\n
+comment2.params=y
+comment2.target=int\ sampleMethod(int)
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+comment3.params=w\ cardType
+comment3.target=void\ insertCard(greenfoot.World,\ java.lang.String)
+comment4.params=w
+comment4.target=void\ enterPin(greenfoot.World)
+comment5.params=w\ pin
+comment5.target=void\ validateZip(greenfoot.World,\ java.lang.String)
+comment6.params=w\ Msg
+comment6.target=void\ selectFuel(greenfoot.World,\ java.lang.String)
+comment7.params=w\ stateMsg
+comment7.target=void\ fillGas(greenfoot.World,\ java.lang.String)
+comment8.params=w\ stateMsg
+comment8.target=void\ printReceipt(greenfoot.World,\ java.lang.String)
+numComments=9

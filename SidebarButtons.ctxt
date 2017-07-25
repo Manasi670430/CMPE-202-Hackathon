@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SidebarButtons
+comment0.text=\n\ Write\ a\ description\ of\ class\ SidebarButtons\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=java.lang.String\ getButtonName()
+comment2.params=
+comment2.target=java.lang.String\ getStateMessage()
+comment3.params=
+comment3.target=Message\ getMSG()
+comment4.params=
+comment4.target=void\ act()
+numComments=5

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Keypad
+comment0.text=\n\ Write\ a\ description\ of\ class\ Keypad\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Keypad()
+comment2.params=condition
+comment2.target=void\ setBeepCondition(boolean)
+comment3.params=currentWorld
+comment3.target=void\ setCurrentWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=next
+comment5.target=void\ setNextKeyPressHandler(KeyPressHandler)
+comment6.params=mouseCoordinateX\ mouseCoordinateY
+comment6.target=java.lang.String\ buttonInfo(int,\ int)
+comment7.params=key
+comment7.target=java.lang.String\ inputString(java.lang.String)
+numComments=8

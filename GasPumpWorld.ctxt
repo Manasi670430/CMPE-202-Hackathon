@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GasPumpWorld
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=state
+comment1.target=void\ setState(GasPumpStateInterface)
+comment2.params=
+comment2.target=GasPumpStateInterface\ getState()
+comment3.params=
+comment3.target=GasPumpWorld()
+comment3.text=\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\n\ \n
+comment4.params=
+comment4.target=void\ prepare()
+numComments=5

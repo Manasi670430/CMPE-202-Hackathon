@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GasPumpStateInterface
+comment0.text=\n\ Write\ a\ description\ of\ class\ GasPumpState\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=w\ cardType
+comment1.target=void\ insertCard(greenfoot.World,\ java.lang.String)
+comment2.params=w
+comment2.target=void\ enterPin(greenfoot.World)
+comment3.params=w\ pin
+comment3.target=void\ validateZip(greenfoot.World,\ java.lang.String)
+comment4.params=w\ Msg
+comment4.target=void\ selectFuel(greenfoot.World,\ java.lang.String)
+comment5.params=w\ stateMsg
+comment5.target=void\ fillGas(greenfoot.World,\ java.lang.String)
+comment6.params=w\ Ms
+comment6.target=void\ printReceipt(greenfoot.World,\ java.lang.String)
+numComments=7

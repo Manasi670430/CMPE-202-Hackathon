@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Zip
+comment0.text=\n\ Write\ a\ description\ of\ class\ Zip\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=zipcode\ w
+comment2.target=boolean\ validateZip(java.lang.String,\ greenfoot.World)
+comment3.params=message
+comment3.target=void\ setMessage(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getMessage()
+numComments=5
